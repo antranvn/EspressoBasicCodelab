@@ -4,13 +4,13 @@
             "outputFile": "/home/andrew/Desktop/CodeLabs/TwoActivities/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "/home/andrew/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a60b6ab3d8f648c974fa62ff80ea5ef8/res/values-land/values-land.xml",
+                    "source": "/home/andrew/.gradle/caches/transforms-2/files-2.1/8d1aae949ceb0c10c0f841b49474d5da/res/values-land/values-land.xml",
                     "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,125,189,260",
-                        "endColumns": "69,63,70,67",
-                        "endOffsets": "120,184,255,323"
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
                     }
                 }
             ]

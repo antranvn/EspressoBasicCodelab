@@ -4,7 +4,7 @@
             "outputFile": "/home/andrew/Desktop/CodeLabs/TwoActivities/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/andrew/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a60b6ab3d8f648c974fa62ff80ea5ef8/res/values-night-v8/values-night-v8.xml",
+                    "source": "/home/andrew/.gradle/caches/transforms-2/files-2.1/8d1aae949ceb0c10c0f841b49474d5da/res/values-night-v8/values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",
